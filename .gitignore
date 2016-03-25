@@ -2,3 +2,11 @@ nodejs/node_modules/*
 nodejs/client_secret.json
 nodejs/guilhermehbueno-bd29ee4439f0.json
 
+java/examples/src/main/resources/client_secret.json
+java/examples/src/main/resources/guilhermehbueno-bd29ee4439f0.json
+java/examples/target
+java/examples/.classpath
+java/examples/.project
+java/examples/.settings/*
+java/examples/.settings/**
+java/examples/.settings
